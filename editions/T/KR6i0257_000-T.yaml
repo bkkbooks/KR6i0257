@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0257/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 治禪病祕要法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0620.xml
+    old_id: T15n0620
+hash: sha256:65416771b390a585d3ccc275317c714679d4a095b68771b3a265859b31218004

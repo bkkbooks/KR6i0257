@@ -1,0 +1,190 @@
+canonical_identifier: bkk:krp/KR6i0257/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0257/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 治禪病祕要法
+  identifiers:
+    krp: KR6i0257
+    cbeta: T15n0620
+    cbeta_old_id: T15n0620
+    authorityid: CA0004086
+    json_key: T0620
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0620.xml
+    old_id: T15n0620
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0257_000-T.yaml, hash: 'sha256:65416771b390a585d3ccc275317c714679d4a095b68771b3a265859b31218004'}
+  - {seq: 1, filename: KR6i0257_001-T.yaml, hash: 'sha256:d088de7efca7b06191c4ec2ab9b2b8e0e9b31d888637223e376023cf17e7c186'}
+  - {seq: 2, filename: KR6i0257_002-T.yaml, hash: 'sha256:56c06e289ec84ef5e6466ab6a193ea4c35413f102d7fd33731367eb031daf2d1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0257_000-T.markers.yaml, hash: 'sha256:3411a140de66fab86f37acf1832fd886688861f8ea4fe14c2a103a79574fe442'}
+  - {seq: 1, role: markers, filename: assets/KR6i0257_001-T.markers.yaml, hash: 'sha256:853ac8a77e8aa35f168dda4a75519976eb01684e91516ad8cb22c032ce40d45e'}
+  - {seq: 2, role: markers, filename: assets/KR6i0257_002-T.markers.yaml, hash: 'sha256:d87fe676052aad45207256af0ffb78b2abd642f63e16186dd4ad035cb7a3e5e8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0257_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6670
+  label: 治禪病祕要法卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0257_T_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 治阿練若亂心病七十二種法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0257_T_001-mulu-2
+    span:
+    - body
+    - 3133
+    - 3133
+  label: 治噎法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0257_T_001-mulu-3
+    span:
+    - body
+    - 3733
+    - 3733
+  label: 治行者貪婬患法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0257_T_001-mulu-4
+    span:
+    - body
+    - 4605
+    - 4605
+  label: 治利養瘡法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0257_T_001-mulu-5
+    span:
+    - body
+    - 5304
+    - 5304
+  label: 治犯戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0257_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6303
+  label: 治禪病祕要法卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0257_T_002-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 治樂音樂法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0257_T_002-mulu-2
+    span:
+    - body
+    - 313
+    - 313
+  label: 治好歌唄偈讚法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0257_T_002-mulu-3
+    span:
+    - body
+    - 644
+    - 644
+  label: 治水大猛盛因是得下
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0257_T_002-mulu-4
+    span:
+    - body
+    - 1204
+    - 1204
+  label: 治因火大頭痛眼痛耳聾法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0257_T_002-mulu-5
+    span:
+    - body
+    - 1553
+    - 1553
+  label: 治入地三昧見不祥事驚怖失心法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0257_T_002-mulu-6
+    span:
+    - body
+    - 3604
+    - 3604
+  label: 治風大法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0257_T_002-mulu-7
+    span:
+    - body
+    - 4611
+    - 4611
+  label: 初學坐者鬼魅所著種種不安不能得定治之法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0257_T_002-mulu-8
+    span:
+    - body
+    - 6187
+    - 6187
+  label: 附文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0257_T_002-mulu-9
+    span:
+    - body
+    - 6187
+    - 6187
+  label: 後序
+  type: mulu
+  level: 1
+hash: sha256:dcd01ea68be6085a298c081c5d3759292da8afa926a74e5ddae11901005bf588
